@@ -1,5 +1,4 @@
 using Franklin
-using Glob
 
 function push_to_gps()
     cmd = `rsync -av __site/ jmuir@newton.gps.caltech.edu:/home/GPSUserWebPages/jmuir`

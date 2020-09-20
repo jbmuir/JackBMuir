@@ -2,7 +2,7 @@ using Franklin
 using Glob
 
 function push_to_gps()
-    files = glob("__/*")
+    files = glob("__site/*")
     for file in files
         cmd = `rsync -av $file jmuir@newton.gps.caltech.edu:/home/GPSUserWebPages/jmuir`
         run(cmd)

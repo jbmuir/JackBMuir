@@ -14,7 +14,3 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
-
-function push_to_gps()
-  `rsync -av __site jmuir@newton.gps.caltech.edu:/home/GPSUserWebPages/jmuir`
-end

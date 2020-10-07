@@ -2,7 +2,7 @@
 
 I am working to create non-technical summaries for each of the papers for which I am a co-author; those which are completed have a summary link after the paper reference below.
 
-- **Jack B. Muir** and Hrvoje Tkalčić, *Probabalistic lowermost mantle P-Wave tomography from hierarchical Hamiltonian Monte Carlo and model parametrization cross-validation*, **Geophysical Journal International**, Volume 223, Issue 3, December 2020, Pages 1630–1643 [DOI:10.1093/gji/ggaa397](https://doi.org/10.1093/gji/ggaa397)<!--, [Summary](/publications/summaries#probabalistic_lowermost_mantle_p-wave_tomography_from_hierarchical_hamiltonian_monte_carlo_and_model_parametrization_cross-validation)-->
+- **Jack B. Muir** and Hrvoje Tkalčić, *Probabalistic lowermost mantle P-Wave tomography from hierarchical Hamiltonian Monte Carlo and model parametrization cross-validation*, **Geophysical Journal International**, Volume 223, Issue 3, December 2020, Pages 1630–1643 [DOI:10.1093/gji/ggaa397](https://doi.org/10.1093/gji/ggaa397), [Summary](/publications/summaries#probabalistic_lowermost_mantle_p-wave_tomography_from_hierarchical_hamiltonian_monte_carlo_and_model_parametrization_cross-validation)
 
 - **Jack B. Muir** and Victor C. Tsai, *Geometric and Level Set Tomography using Ensemble Kalman Inversion*, **Geophysical Journal International**, Volume 220, Issue 2, February 2020, Pages 967–980, [DOI:10.1093/gji/ggz472](https://doi.org/10.1093/gji/ggz472)<!--, [Summary](/publications/summaries#geometric_and_level_set_tomography_using_ensemble_kalman_inversion)-->
 

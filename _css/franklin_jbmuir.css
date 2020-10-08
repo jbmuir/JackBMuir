@@ -1,12 +1,12 @@
 /* ==================================================================
     DEFAULT FONT AND LAYOUT
 ================================================================== */
-@import url(charter/charter.css);
+@import url(xcharter/xcharter.css);
 @import url(https://code.cdn.mozilla.net/fonts/fira.css);
 
 html {
-    font-family: Charter, sans-serif;
-    font-size  : 17px;
+    font-family: xcharterroman, serif;
+    font-size  : 20px;
     color: #1c1c1c;
     background: #fffefa;
 }

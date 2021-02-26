@@ -3,7 +3,7 @@
 
 ![Jack in front of York Minster](/assets/jbmuir_long_compressed.jpeg)
 
-I'm a 6\sup{th} year graduate student in geophysics at the California Institute of Technology Seismological Laboratory (e.g. Caltech Seismolab). I'm passionate about inverse problems — some of the projects I'm working on now are: imaging the Earth from near surface to the core; improving data captured at seismic arrays; and answering difficult questions about historical data sets. 
+I'm a 6\sup{th} year graduate student in geophysics at the California Institute of Technology Seismological Laboratory (e.g. Caltech Seismolab) --- I will take up a Marie Skłodowska-Curie Fellowship at the Oxford University Department of Earth Sciences in late 2021 / early 2022, and am currently a visiting researcher at the Australian National University. I'm passionate about inverse problems — some of the projects I'm working on now are: imaging the Earth from near surface to the core; improving data captured at seismic arrays; and answering difficult questions about historical data sets. 
 
 *You can contact me at [jmuir@caltech.edu](mailto:jmuir@caltech.edu)*
 
